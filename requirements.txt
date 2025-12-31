@@ -1,0 +1,11 @@
+transformers
+streamlit
+pandas
+scikit-learn
+matplotlib
+modelscope
+torch
+torchvision
+torchaudio
+datasets
+accelerate
